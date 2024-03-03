@@ -1,5 +1,5 @@
 ![SEheader.jpg](https://github.com/creatorpanda/SniperElite1TimeCapsule/blob/main/pictures/SEheader.jpg)\
-*In memory of StinGeR*
+*In memory of StinGeR* ![snipersmiley](https://github.com/creatorpanda/SniperElite1TimeCapsule/blob/main/pictures/snipersmiley.gif)
 
 ---
 
