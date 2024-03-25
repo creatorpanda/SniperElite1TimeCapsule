@@ -3,7 +3,7 @@
 
 ---
 
-*If you're searching for the Spotter, you can find its installer [here](https://github.com/creatorpanda/SniperElite1TimeCapsule/tree/main/Installers). It doesn't work. For more information, please [read here](https://github.com/creatorpanda/OverlordForSniperElite1)*.
+*If you're searching for the Spotter, you can find its installer [here](https://github.com/creatorpanda/SniperElite1TimeCapsule/tree/main/Installers/Spotter%20For%20Sniper%20Elite%20Installer%201.5.0). It doesn't work. For more information, please [read here](https://github.com/creatorpanda/OverlordForSniperElite1)*.
 
 ## SniperElite1TimeCapsule:
 - pays tribute to every player who ever made content for the Sniper Elite community,
